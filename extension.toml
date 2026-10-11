@@ -1,0 +1,7 @@
+[extension]
+id = "auto_rename_tag"
+name = "Auto Rename Tag"
+version = "0.1.0"
+description = "Auto Rename Tag extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
